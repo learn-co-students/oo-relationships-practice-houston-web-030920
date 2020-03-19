@@ -17,12 +17,12 @@ Create the necessary methods to connect these classes.
 #### Bakery
 
 - #ingredients
-  - should return an array of ingredients for the bakery's desserts
+  - should return an array of ingredients for the bakery's desserts ###double iteration
 - #desserts
   - should return an array of desserts the bakery makes
-- #average_calories
-  - should return a number totaling the average number of calories for the desserts sold at this bakery
-- .all
+- #average_calories ###single iteration
+  - should return a number totaling the average number of calories for the desserts sold at this bakery ###itereation with increment 
+- .all 
   - should return an array of all bakeries
 - #shopping_list
   - should return a string of names for ingredients for the bakery
